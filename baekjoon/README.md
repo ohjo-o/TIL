@@ -27,3 +27,9 @@
 [# 2667 - 단지번호 붙이기](https://www.notion.so/2667-f70c5b027709483db03b4d9b0c61a332)
 
 [# 11724 - 연결 요소의 개수](https://www.notion.so/11724-c09dfc5914dc456094e9682191b5256a)
+
+---
+
+## Data Structure
+
+[# 17219 - 비밀번호 찾기 (map)](https://www.notion.so/17219-map-7cd21a362ad34eb69dba819ce13a3e8c)
