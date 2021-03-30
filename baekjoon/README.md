@@ -35,3 +35,9 @@
 [# 17219 - 비밀번호 찾기 (map)](https://www.notion.so/17219-map-7cd21a362ad34eb69dba819ce13a3e8c)
 
 [# 1417 - 국회의원 선거 (우선순위 큐)](https://www.notion.so/1417-66debe4fa6f44bbb8966cac23433a0ee)
+
+---
+
+## C++ STL
+
+[string STL](https://www.notion.so/C-string-library-149d759cd511415ca0d7578cc6e41861)
