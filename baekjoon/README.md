@@ -12,6 +12,10 @@
 
 [# 20152 - Game Addiction](https://www.notion.so/20152-Game-Addiction-356db0f99f4940e88a1da44e55c28661)
 
+[# 2579 - 계단 오르기](https://www.notion.so/2579-a3f649d6bd2f427caeebc3c4ce966a53)
+
+[# 2491 - 수열](https://www.notion.so/2491-d3095e5dbd5e4440a6f40561c2434208)
+
 ---
 
 ## Greedy
