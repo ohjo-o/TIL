@@ -16,6 +16,14 @@
 
 [# 2491 - 수열](https://www.notion.so/2491-d3095e5dbd5e4440a6f40561c2434208)
 
+[# 10211 - Maximum Subarray](https://www.notion.so/10211-Maximum-Subarray-4242ddb7fbab4645bfb775b98cf6b990)
+
+[# 1890 - 점프](https://www.notion.so/1890-b068f5475df8490a9e734aa3cb5ed3b5)
+
+[# 1912 - 연속합](https://www.notion.so/1912-976e2bcd24aa4ca68f48deab1efb6ae2)
+
+[# 1965 - 상자넣기](https://www.notion.so/1965-c0c8da026da240e6965e19105f911b60)
+
 ---
 
 ## Greedy
